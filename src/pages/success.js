@@ -2,7 +2,7 @@ import React from 'react'
 import Helmet from 'react-helmet'
 import Layout from '../components/layout'
 
-import pic11 from '../assets/images/pic11.jpg'
+import gif_success from '../assets/images/success.gif'
 
 const Success = (props) => (
     <Layout>
@@ -15,11 +15,15 @@ const Success = (props) => (
             <section id="one">
                 <div className="inner">
                     <header className="major">
-                        <h1>Success/Thank You Page</h1>
+                        <h1>Success</h1>
                     </header>
-                    <span className="image main"><img src={pic11} alt="" /></span>
-                    <p>Thank you for contacting us!</p>
+                    <div className="ok_kid"><img src={gif_success} alt="" /></div>
+                    <p>Thank you for contacting us! We will get back to you ASAP</p>
+                    <ul className="actions">
+                        <li><a href="/" className="button special">Back to Home</a></li>
+                    </ul>
                 </div>
+
             </section>
         </div>
     </Layout>
