@@ -6,7 +6,7 @@ import Banner from '../components/Banner'
 import Team from '../components/Team'
 
 import pic01 from '../assets/images/pic01.jpg'
-import pic02 from '../assets/images/pic02.jpeg'
+import pic02 from '../assets/images/pic02.jpg'
 import pic03 from '../assets/images/pic03.jpg'
 import pic04 from '../assets/images/pic04.jpg'
 import pic05 from '../assets/images/pic05.jpg'
@@ -35,14 +35,14 @@ class HomeIndex extends React.Component {
                         <article style={{backgroundImage: `url(${pic01})`}}>
                             <header className="major">
                                 <h3>Devoleum</h3>
-                                <p>Trace and optimize supply chains using Blockchain and AI</p>
+                                <p>Awarded Blockchain and AI solution for Food Supply Chains</p>
                             </header>
                             <a href="https://www.devoleum.com" target="_blank"><div className="link primary"></div></ a>
                         </article>
                         <article style={{backgroundImage: `url(${pic02})`}}>
                             <header className="major">
                                 <h3>Documentum</h3>
-                                <p>Protect your Documents an Files using Ethereum blockchain and IPFS</p>
+                                <p>Protect your Documents and Files using Ethereum blockchain and IPFS</p>
                             </header>
                             <a href="https://www.documentum.nanadevs.com/" target="_blank"><div className="link primary"></div></ a>
                         </article>
@@ -56,7 +56,7 @@ class HomeIndex extends React.Component {
                         <article style={{backgroundImage: `url(${pic04})`}}>
                             <header className="major">
                                 <h3>AR Corgie</h3>
-                                <p>Your best Augmented Reality ARKit pet!</p>
+                                <p>Your best Augmented Reality ARKit pet</p>
                             </header>
                             <a href="https://www.youtube.com/watch?v=Kk_t_EOrWgk" target="_blank"><div className="link primary"></div></ a>
                         </article>
