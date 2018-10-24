@@ -74,6 +74,82 @@ class HomeIndex extends React.Component {
                             </header>
                             <a href="https://www.agenziamassai.com/" target="_blank"><div className="link primary"></div></ a>
                         </article>
+                        <article style={{backgroundImage: `url(${pic06})`}}>
+                            <header className="major">
+                                <h3>Talk2Me</h3>
+                                <p>An Angular Chabot that answers questions about psychology and more</p>
+                            </header>
+                            <a href="https://www.appsicologia.it/" target="_blank"><div className="link primary"></div></ a>
+                        </article>
+                        <article style={{backgroundImage: `url(${pic06})`}}>
+                            <header className="major">
+                                <h3>Dammi la mano</h3>
+                                <p>React Native App for Remote Safety, Winner of Tim #wcap prize at the hackathon Digithon 2016</p>
+                            </header>
+                            <a href="https://www.dammilamano.nanadevs.com/" target="_blank"><div className="link primary"></div></ a>
+                        </article>
+                    </section>
+                    <header className="major">
+                        <h2>Webinars and Tutorials</h2>
+                    </header>
+                    <section id="one" className="tiles">
+
+                        <article style={{backgroundImage: `url(${pic01})`}}>
+                            <header className="major">
+                                <h3>Devoleum</h3>
+                                <p>Awarded Blockchain and AI solution for Food Supply Chains</p>
+                            </header>
+                            <a href="https://www.devoleum.com" target="_blank"><div className="link primary"></div></ a>
+                        </article>
+                        <article style={{backgroundImage: `url(${pic02})`}}>
+                            <header className="major">
+                                <h3>Documentum</h3>
+                                <p>Protect your Documents and Files using Ethereum blockchain and IPFS</p>
+                            </header>
+                            <a href="https://www.documentum.nanadevs.com/" target="_blank"><div className="link primary"></div></ a>
+                        </article>
+                        <article style={{backgroundImage: `url(${pic03})`}}>
+                            <header className="major">
+                                <h3>AR 3D Face Filter</h3>
+                                <p>Snapchat 3D like face filters using Javascript and Facial Recognition</p>
+                            </header>
+                            <a href="https://www.arfacefilter.nanadevs.com/" target="_blank"><div className="link primary"></div></ a>
+                        </article>
+                        <article style={{backgroundImage: `url(${pic04})`}}>
+                            <header className="major">
+                                <h3>AR Corgie</h3>
+                                <p>Your best Augmented Reality ARKit pet</p>
+                            </header>
+                            <a href="https://www.youtube.com/watch?v=Kk_t_EOrWgk" target="_blank"><div className="link primary"></div></ a>
+                        </article>
+                        <article style={{backgroundImage: `url(${pic05})`}}>
+                            <header className="major">
+                                <h3>Real Time VR Angular Dashboard</h3>
+                                <p>An Angular Real time dashboard for Virtual Reality</p>
+                            </header>
+                            <a href="https://www.youtube.com/watch?v=ThJooefOFPQ" target="_blank"><div className="link primary"></div></ a>
+                        </article>
+                        <article style={{backgroundImage: `url(${pic06})`}}>
+                            <header className="major">
+                                <h3>Agency Massai</h3>
+                                <p>Progressive Web App made in React with a Dialog Flow Chabot</p>
+                            </header>
+                            <a href="https://www.agenziamassai.com/" target="_blank"><div className="link primary"></div></ a>
+                        </article>
+                        <article style={{backgroundImage: `url(${pic06})`}}>
+                            <header className="major">
+                                <h3>Talk2Me</h3>
+                                <p>An Angular Chabot that answers questions about psychology and more</p>
+                            </header>
+                            <a href="https://www.appsicologia.it/" target="_blank"><div className="link primary"></div></ a>
+                        </article>
+                        <article style={{backgroundImage: `url(${pic06})`}}>
+                            <header className="major">
+                                <h3>Dammi la mano</h3>
+                                <p>React Native App for Remote Safety, Winner of Tim #wcap prize at the hackathon Digithon 2016</p>
+                            </header>
+                            <a href="https://www.dammilamano.nanadevs.com/" target="_blank"><div className="link primary"></div></ a>
+                        </article>
                     </section>
                     <Team />
 
